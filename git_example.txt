@@ -1,0 +1,11 @@
+Knowing about GIT and IT's commands
+
+git init --->it is used to initialize the current directory files need to sent to git repository
+
+git status ---> to know/check the status of whether the files in the current directory are added to staging area or to local repository or to remote repository or not
+
+git add filename ---> file to be added to staging area
+
+git commit -m "message about file" --->to add files to local repository
+
+git push --> to remote repository
